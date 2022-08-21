@@ -1,2 +1,3 @@
-My first readme
-This is the update of the readme file
+My first readme.
+To update from git to your computer locally, use git pull first.
+To see the differences use git status.
